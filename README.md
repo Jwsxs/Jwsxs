@@ -1,7 +1,7 @@
 # felipe jesus
 **junior dev · c/c++ · low-level · systems · graphics**
 
-> *i don't use libraries i don't understand.*
+> *if i don't understand something, it bothers me 'till i do*
 
 ---
 
@@ -10,8 +10,6 @@
 low-level dev focused on **systems programming**, **game development**, and **computer graphics**. i like working close to the metal — custom framebuffers, terminal renderers, emulators, assembly routines. understanding what's underneath before reaching for abstractions is mandatory.
 
 self-improving since forever. don't plan on stopping
-
-if i don't understand something, it bothers me 'till i do
 
 currently starting **computer engineering @ UTFPR** (jul/2026).
 
