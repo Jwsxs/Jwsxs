@@ -19,7 +19,7 @@ tinkerer since forever, currently pursuing **computer science** student at UNOES
 
 | | project | description |
 |---|---|---|
-| `asm` | **[simple bootloader](https://github.com/Jwsxs/bootloader_16bits)** | a simple BIOS bootloader for understanding of the computer's "turning on" process |
+| `asm` | **[simple bootloader](https://github.com/Jwsxs/bootloader_16bits)** | a simple BIOS bootloader for understanding the computer's boot process |
 | `c++` | **[chip8_interpreter](https://github.com/Jwsxs/chip8_interpreter)** | full CHIP-8 virtual machine — opcode decoding, memory, stack, timers, display, cycle-accurate emulation |
 | `asm` | **[asm projects](https://github.com/Jwsxs/asm)** | series of x64 assembly routines — register manipulation, stack frames, calling conventions, C/C++ interop |
 | `c++` | **[fish game](https://github.com/Jwsxs/fish_terminal)** | terminal fish aquarium with zero external dependencies — hand-made framebuffer, ANSI rendering, entity management |
