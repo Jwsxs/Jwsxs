@@ -11,8 +11,6 @@ low-level dev focused on **bare metal**, **game development**, and **computer gr
 i like working close to the metal: custom framebuffers, terminal renderers, emulators, assembly routines.  
 understanding what's underneath before reaching for abstractions is a priority.
 
-self-improving since forever. don't plan on stopping
-
 tinkerer since forever, currently pursuing **computer science** student at UNOESTE, moving to **computer engineering** at **UTFPR** (jul/2026).
 
 ---
