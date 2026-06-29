@@ -17,15 +17,15 @@ tinkerer since forever, currently pursuing **computer science** student at UNOES
 
 ## few projects
 
-| | project | description |
+| **lang** | **project** | **description** |
 |---|---|---|
+| `c` | **[ui library](https://github.com/Jwsxs/tgui)** | _currently_ single-header for better working with gui on terminal |
 | `asm` | **[simple bootloader](https://github.com/Jwsxs/s_bootloader)** | a simple BIOS bootloader for understanding the computer's boot process |
 | `c++` | **[chip8_interpreter](https://github.com/Jwsxs/chip8_interpreter)** | full CHIP-8 virtual machine — opcode decoding, memory, stack, timers, display, cycle-accurate emulation |
 | `asm` | **[asm projects](https://github.com/Jwsxs/asm)** | series of x64 assembly routines — register manipulation, stack frames, calling conventions, C/C++ interop |
-| `c++` | **[fish game](https://github.com/Jwsxs/fish_terminal)** | terminal fish aquarium with zero external dependencies — hand-made framebuffer, ANSI rendering, entity management |
+| `c++` | **[aquarium](https://github.com/Jwsxs/fish_terminal)** | terminal fish aquarium with zero external dependencies — hand-made framebuffer, ANSI rendering, entity management |
 | `gml` | **[chillq_3d](https://github.com/Jwsxs/chillq_3d)** | software 3D rasterizer inside a 2D engine — coordinates projection and vertices transposing without GPU pipeline |
 | `py` | **[camera ascii](https://github.com/Jwsxs/camera_conversor)** | webcam to ASCII in real time — grayscale mapping, ANSI formatting, no flickering, five charsets, mirror mode |
-| `java` | **[project euler](https://github.com/Jwsxs/project-euler)** | computational mathematics exercises — type limits, precision, solution efficiency |
 
 ---
 
@@ -33,12 +33,12 @@ tinkerer since forever, currently pursuing **computer science** student at UNOES
 
 ```
 c / c++     ████████████  focus
-asm x64     ███████░░░░░  memory architecture
+asm x64     ████████░░░░  memory architecture
 risc-v      █████░░░░░░░  assembly and simulation
-bash        ██████░░░░░░  shell scripting and automation
+bash        ████████░░░░  shell scripting and automation
 python      ███████░░░░░  scripting and tooling
 gml         ████████░░░░  game logic and prototypes
-java / rust ████░░░░░░░░  fundamentals and prototyping
+java / rust ███████░░░░░  fundamentals and prototyping
 ```
 
 ---
@@ -52,7 +52,7 @@ java / rust ████░░░░░░░░  fundamentals and prototyping
 `cmake` · `makefile` · `git` · `gcc`
 
 **graphics**
-`opengl` · `sdl` · `glfw`
+`tgui` · `opengl` · `sdl` · `glfw`
 
 **environment**
 `linux` · `nvim` · `terminal-first workflow` · `TTY/PTY/ANSI`
