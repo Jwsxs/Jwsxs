@@ -2,19 +2,15 @@
 
 **computer engineering student · systems programming · computer graphics · c/c++**
 
-> *understand first. abstract later.*
+> *i can't use what i can't understand, and i don't understand what i cannot create*
 
 ---
 
 ## about
 
 i'm a low-level developer passionate about understanding how computers actually work.
-
-i enjoy building things from scratch — bootloaders, kernels, terminal renderers, emulators, software rasterizers — using them as a way to study operating systems, computer architecture and graphics programming.
-
-i can't use what can't understand, and i don't understand what i cannot create
-
-currently pursuing a **Computer Engineering** degree at **UTFPR**.
+i enjoy building things from scratch: bootloaders, kernels, terminal renderers, emulators, software rasterizers... and using them as a way to study operating systems, computer architecture and graphics programming.  
+currently pursuing a **Computer Engineering** degree at **UTFPR**
 
 ---
 
@@ -23,7 +19,6 @@ currently pursuing a **Computer Engineering** degree at **UTFPR**.
 - improving **[ANSUI](https://github.com/Jwsxs/ansui)**, a dependency-free terminal GUI library
 - studying operating systems and computer architecture
 - experimenting with rendering pipelines and software graphics
-- looking for opportunities to contribute to projects like **FFmpeg**, **SDL**, **QEMU** and **Mesa**
 
 ---
 
@@ -46,8 +41,6 @@ currently pursuing a **Computer Engineering** degree at **UTFPR**.
 |---------|--------------|
 | **alf-cli** | simplified Docker setup by removing an unnecessary configuration step |
 | **rust-sdl2** | fixed a rendering pipeline bug by correcting the frame order (`fetch → clear → draw`) |
-
-*(hopefully FFmpeg, SDL and QEMU soon.)*
 
 ---
 
@@ -129,7 +122,7 @@ java         ██████░░░░░░  oop fundamentals
 
 ## fun fact
 
-i've rebuilt more things for learning than for necessity.
+i've rebuilt more things for learning purposes than for necessity.
 
 ---
 
